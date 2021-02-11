@@ -1,0 +1,19 @@
+section {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+section img {
+    max-width: 70%;
+    display: inline-block;
+    margin: 2% auto;
+}
+
+.card {
+    width: 250px;
+    height: 300px;
+    border: 1px solid burlywood;
+}
